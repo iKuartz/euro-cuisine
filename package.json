@@ -48,6 +48,7 @@
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11",
     "babel-jest": "^27.5.1",
+    "gh-pages": "^3.2.3",
     "jest-localstorage-mock": "^2.4.19",
     "jsdom": "^19.0.0"
   }
